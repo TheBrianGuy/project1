@@ -1,0 +1,17 @@
+ Ruby Rogues
+Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers. 
+
+Cheat Sheet Conventions
+
+Bold words are what is really important e.g. the command and concept shown in the usage category. In the code usage and example columns these highlight the main part of the concept, like this: general_stuff.concept. In the same columns italic_words mark the arguments/parameters of a command/method.
+
+However italic words in the descriptions or general text denote more general concepts or concepts explained elsewhere in this cheat sheet or in general.
+Console Basics
+
+The console (also called command line, command prompt or terminal) is just another way of interacting with your computer. So you can basically do anything with it that you could also do with your graphical desktop user interface. This sections contains a couple of examples.
+
+For the different operating systems starting the console differs.
+
+    Windows: Open the start menu and search for command prompt. Alternatively choose execute and enter cmd.
+    Mac: Open Spotlight, type terminal, and start that program.
+    Linux: The terminal should be one of the main options once you open the main menu of your distribution. Otherwise search for terminal if your distribution has such an option or look under Accessories.
